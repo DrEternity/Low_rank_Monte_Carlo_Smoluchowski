@@ -1,4 +1,4 @@
-# Low_rank_Monte_Carlo_Smoluchowski
+# Low-rank Monte Carlo Smoluchowski
 
 A highly efficient Monte Carlo algorithm has been developed 
 for the numerical solution of aggregation-fragmentation equations 
